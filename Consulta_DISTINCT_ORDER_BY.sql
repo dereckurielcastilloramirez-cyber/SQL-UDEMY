@@ -1,0 +1,1 @@
+SELECT DISTINCT año_lanzamiento FROM Series ORDER BY año_lanzamiento DESC
