@@ -1,0 +1,1 @@
+SELECT * FROM habitaciones WHERE tipo = 'individual' AND precio <= 100.00 AND estado = 'libre';
